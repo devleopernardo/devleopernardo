@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devleopernardo
 - 👀 I’m interested in Blockchain Software Development
-- 🌱 I’m currently learning lots of things
+- 🌱 I’m currently learning OOP in Java. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE-MAN
