@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devleopernardo
-- 👀 I’m interested in Blockchain Software Development
-- 🌱 I’m currently learning OOP in Java. 
+- 👀 I’m interested in Blockchain Software Development.
+- 🌱 I’m currently learning OOP in Java, and Web Development in JavaScript. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: WhatsApp +556199677-4107 or LinkedIn 
 - 😄 Pronouns: HE-MAN
 - ⚡ Fun fact: FACTS ARE NOT FUN... LOL
 
